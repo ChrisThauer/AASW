@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  color: #FEE71F;
+  font-size: 65px;
+  margin: 15px;
+}
+
+.logo {
+  width: 300px;
+  margin: auto;
+  display: block;
+}
