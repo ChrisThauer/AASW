@@ -1,0 +1,12 @@
+.card {
+  color: #FEE71F;
+  border: 1px solid #FEE71F;
+  width: 350px;
+  text-align: center;
+  margin: 20px;
+  transition: all .3s;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
